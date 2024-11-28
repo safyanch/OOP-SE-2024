@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CommissionEmp
+comment1.params=i\ n\ d\ sale\ comm
+comment1.target=CommissionEmp(int,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=void\ calculateSalary()
+numComments=3

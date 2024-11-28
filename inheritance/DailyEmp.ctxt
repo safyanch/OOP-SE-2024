@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DailyEmp
+comment1.params=n\ i\ des\ c\ h\ hw
+comment1.target=DailyEmp(java.lang.String,\ int,\ java.lang.String,\ int,\ double,\ double)
+comment2.params=
+comment2.target=void\ calculateSalary()
+numComments=3
