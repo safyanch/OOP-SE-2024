@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=author\ text
+comment0.target=MessagePost(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MessagePost.\r\n\ \r\n\ @param\ author\ \ \ \ The\ username\ of\ the\ author\ of\ this\ post.\r\n\ @param\ text\ \ \ \ \ \ The\ text\ of\ this\ post.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getText()
+comment1.text=\r\n\ Return\ the\ text\ of\ this\ post.\r\n\ \r\n\ @return\ The\ post's\ message\ text.\r\n
+comment2.params=
+comment2.target=void\ display()
+numComments=3
