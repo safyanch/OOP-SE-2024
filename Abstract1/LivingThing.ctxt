@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ breath()
+comment1.params=
+comment1.target=void\ eat()
+comment2.params=
+comment2.target=void\ walk()
+comment2.text=\r\n\ Abstract\ method\ walk()\r\n\ We\ want\ this\ method\ to\ be\ implemented\ by\ a\r\n\ Concrete\ class.\r\n
+numComments=3

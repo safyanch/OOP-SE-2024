@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=int\ isGreater(java.lang.Object,\ java.lang.Object)
+comment1.params=x\ y
+comment1.target=int\ isLess(java.lang.Object,\ java.lang.Object)
+comment2.params=x\ y
+comment2.target=int\ issEqual(java.lang.Object,\ java.lang.Object)
+numComments=3

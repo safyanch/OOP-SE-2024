@@ -1,7 +1,7 @@
 
-public abstract class Employee
+public   class Employee
 {
-   private String name;
+   String name;
    private int id;
    private String designation;
    
@@ -18,6 +18,9 @@ public abstract class Employee
        
    }
    
-   public abstract void calculateSalary();
+   protected  void calculateSalary()
+   {
+       
+   }
    
 }

@@ -1,7 +1,7 @@
 
 public class CommissionEmp extends Employee
 {
-    private double sale;
+     double sale;
     private double comm;
     double salary;
    public CommissionEmp(int i, String n, String d, double sale, double comm)

@@ -1,7 +1,7 @@
 
 public abstract class  Employee
 {
-    private String name;
+    final private String name;
     private int id;
     private String designation;
     public Employee(int i, String n, String d)
@@ -11,11 +11,12 @@ public abstract class  Employee
         designation=d;
     }
     
-    protected String getName()
+     protected String getName()
     {
         return(name);
     }
     
-    public abstract void calculateSalary();
+    public abstract  void calculateSalary();
+    
     
 }

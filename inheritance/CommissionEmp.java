@@ -12,7 +12,7 @@ public class CommissionEmp extends Employee
         this.comm=comm;
         
     }
-public void calculateSalary()
+protected  void calculateSalary()
 {
     System.out.println("salary of  "+getName()+"="+sale*comm);
 }
