@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Passenger
+comment1.params=bookingSystem\ passengerName\ ticketsToBook
+comment1.target=Passenger(TicketBookingSystem,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

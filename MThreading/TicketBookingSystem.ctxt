@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TicketBookingSystem
+comment1.params=totalTickets
+comment1.target=TicketBookingSystem(int)
+comment2.params=passengerName\ numberOfTickets
+comment2.target=boolean\ bookTicket(java.lang.String,\ int)
+numComments=3
