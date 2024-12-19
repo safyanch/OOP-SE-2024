@@ -1,4 +1,5 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=TextFieldTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
