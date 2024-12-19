@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=amount
+comment0.target=InsufficientFundsException(double)
+comment1.params=
+comment1.target=double\ getAmount()
+numComments=2

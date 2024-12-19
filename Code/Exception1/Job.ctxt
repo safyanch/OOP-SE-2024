@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=name\ post\ age
+comment0.target=Job(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ calculateEligibility()
+numComments=2

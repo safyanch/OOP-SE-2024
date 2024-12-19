@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JMenuExample()
+comment1.params=e
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=name
+comment3.target=javax.swing.JMenuItem\ makeMenuItem(java.lang.String)
+comment4.params=s
+comment4.target=void\ main(java.lang.String[])
+numComments=5
