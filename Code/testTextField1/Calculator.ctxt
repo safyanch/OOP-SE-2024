@@ -1,6 +1,7 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Calculator()
-comment1.params=event
-comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
-numComments=2
+comment0.target=Calculator
+comment1.params=
+comment1.target=Calculator()
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
